@@ -1,0 +1,23 @@
+.comment-first {
+    background-color: rgb(206, 84, 36);
+    border-radius: 20px;
+    width: 100px;
+    height: 180px;
+    border: 2px solid;
+    margin-left: 20px;
+     
+  }
+
+.comment-second {
+    margin-top: 30px;
+    font-size: 22px;
+    text-align: center;
+    background-color:rgb(206, 84, 36);
+    width: 110px;
+    height: 190px;
+    border: 2px solid;
+    margin-top: 20px;
+    margin-left: 20px;
+  
+  
+  }
